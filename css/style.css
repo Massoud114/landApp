@@ -103,7 +103,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 }
 
 ::selection {
-  background: #6c757d;
+  background: #007bff;
   color: #ffffff;
 }
 
@@ -128,7 +128,7 @@ p {
 }
 
 .bg-overlay {
-  background-color: rgba(20, 30, 58, 0.85);
+  background-color: #3155a4;
   position: absolute;
   top: 0;
   right: 0;
