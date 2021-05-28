@@ -67,8 +67,8 @@ AOS.init({
 });
 
 //Nicescroll
-$("body").niceScroll({   
-    cursorcolor:"rgba(108, 117, 125, 0.7)",
+$("body").niceScroll({
+    cursorcolor:"#f7a81b",
     cursorwidth:"10px",             
     background:"rgba(0,0,0,0.15)",
     scrollspeed: 50,
@@ -76,4 +76,5 @@ $("body").niceScroll({
     cursorborder: 0,
     zindex: 999,
     horizrailenabled: false,
+    autohidemode: false
 });
