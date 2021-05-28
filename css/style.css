@@ -81,8 +81,8 @@
 }
 
 .btn.btn-outline-white:hover, .btn.btn-outline-white:focus, .btn.btn-outline-white:active, .btn.btn-outline-white.active, .btn.btn-outline-white.focus {
-  background-color: #2172c3;
-  border: 1px solid #2172c3 !important;
+  background-color: #018d8d;
+  border: 1px solid #ffffff !important;
   color: #ffffff;
 }
 
@@ -104,7 +104,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 }
 
 ::selection {
-  background: #007bff;
+  background: blue;
   color: #ffffff;
 }
 
@@ -140,7 +140,7 @@ p {
 }
 
 .text-custom {
-  color: #2172c3;
+  color: #ff7600;
 }
 
 .bg-custom {
@@ -365,6 +365,7 @@ p {
   z-index: 999;
   margin-bottom: 0px;
   transition: all 0.5s ease-in-out;
+  box-shadow: 0 5px 12px rgba(0, 0, 0, 0.1);
 }
 
 .navbar-custom .navbar-toggler {
@@ -407,6 +408,7 @@ p {
 
 .navbar-custom .navbar-nav li.active a {
   color: #f7a81b !important;
+  font-weight: bold !important;
 }
 
 .nav-sticky.navbar-custom {
@@ -435,6 +437,7 @@ p {
 
 .nav-sticky.navbar-custom .navbar-nav li.active a {
   color: #f7a81b !important;
+  font-weight: bold !important;
 }
 
 .nav-sticky.navbar-custom.sticky-light {
@@ -515,7 +518,7 @@ p {
 
 .bg-home-1 {
   position: relative;
-  padding: 170px 0px 140px 0px;
+  padding: 100px 0px 110px 0px;
 }
 
 .bg-home {
@@ -705,16 +708,18 @@ p {
 
 .bg-counter {
   position: relative;
-  padding: 60px 0;
+  padding: 120px 0;
 }
 
 .bg-counter .counter-box .counter-icon {
   font-size: 40px;
+  margin-left: 250px;
 }
 
 .bg-counter .counter-box .counter-head {
   font-size: 18px;
   letter-spacing: 1px;
+  margin-left: 250px;
 }
 
 .swiper-container {
