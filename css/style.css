@@ -957,3 +957,6 @@ p {
 .features-pictures:hover .features-pictures-img  {
   transform: scale(1.1);
 }
+.features-pictures-img img {
+  width: 400px;
+}
