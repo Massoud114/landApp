@@ -1,4 +1,3 @@
-    // Working Contact Form
     $('#contact-form').submit(function() {
         var action = $(this).attr('action');
 

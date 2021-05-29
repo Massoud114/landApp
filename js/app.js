@@ -1,10 +1,3 @@
-/* Template Name: Applock
-   Author: Themesdesign
-   Version: 1.0.0
-   Created: Jan 2021
-   File Description: Main Js file of the template
-*/
-
 ! function($) {
     "use strict";    
     // Loader 
