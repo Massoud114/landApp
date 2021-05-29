@@ -635,7 +635,7 @@ p {
 
 .screenshot-cell {
   position: absolute;
-  top: -547px;
+  top: -657px;
   right: 0;
   left: 0;
   z-index: 1;
@@ -643,7 +643,8 @@ p {
 }
 
 .screenshot-cell img {
-  height: 590px;
+  height: 710px;
+  width: 330px;
 }
 
 @media (max-width: 1024px) {
