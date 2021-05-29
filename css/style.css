@@ -676,7 +676,7 @@ p {
   }
   .screenshot-cell img {
     height: 710px;
-    width: 330px;
+    width: 230px;
   }
 }
 
@@ -688,7 +688,7 @@ p {
 
 @media (max-width: 425px) {
   .screenshot-cell {
-    top: -380px;
+    top: -400px;
   }
   .screenshot-cell img {
     height: 400px;
@@ -697,10 +697,10 @@ p {
 
 @media (max-width: 375px) {
   .screenshot-cell {
-    top: -330px;
+    top: -400px;
   }
   .screenshot-cell img {
-    height: 345px;
+    height: 405px;
   }
 }
 
