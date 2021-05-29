@@ -71,8 +71,6 @@ $("body").niceScroll({
     cursorcolor:"#f7a81b",
     cursorwidth:"10px",             
     background:"rgba(0,0,0,0.15)",
-    scrollspeed: 50,
-    mousescrollstep: 50,
     cursorborder: 0,
     zindex: 999,
     horizrailenabled: false,

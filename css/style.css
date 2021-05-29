@@ -652,28 +652,31 @@ p {
     margin-top: 30px;
   }
   .screenshot-cell {
-    top: -450px;
+    top: -657px;
   }
   .screenshot-cell img {
-    height: 480px;
+    height: 710px;
+    width: 330px;
   }
 }
 
 @media (max-width: 991px) {
   .screenshot-cell {
-    top: -330px;
+    top: -657px;
   }
   .screenshot-cell img {
-    height: 345px;
+    height: 710px;
+    width: 330px;
   }
 }
 
 @media (max-width: 768px) {
   .screenshot-cell {
-    top: -445px;
+    top: -657px;
   }
   .screenshot-cell img {
-    height: 475px;
+    height: 710px;
+    width: 330px;
   }
 }
 
